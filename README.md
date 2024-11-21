@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @cshenn
+- 👋 Hi, I’m Celina
 - 🐳 I’m currently a Computer Science student @ UNSW
